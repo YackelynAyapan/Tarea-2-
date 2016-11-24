@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\control1\control1\bin\Debug\control1.exe.config
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\control1\control1\bin\Debug\control1.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\control1\control1\bin\Debug\control1.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\control1\control1\obj\Debug\control1.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\control1\control1\obj\Debug\control1.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\control1\control1\obj\Debug\control1.csprojResolveAssemblyReference.cache
